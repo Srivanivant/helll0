@@ -4,3 +4,4 @@ name vani
 project java
 coolege anmk
 course mca
+affilcated jntu
